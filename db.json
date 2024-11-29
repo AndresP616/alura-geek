@@ -1,0 +1,40 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "nombre": "1984",
+      "precio": "18.00",
+      "imagen": "/img/libro1.png"
+    },
+    {
+      "id": "2",
+      "nombre": "Crimen y Castigo",
+      "precio": "20.00",
+      "imagen": "/img/libro2.png"
+    },
+    {
+      "id": "3",
+      "nombre": "Indigno de Ser Humano",
+      "precio": "15.00",
+      "imagen": "/img/libro3.png"
+    },
+    {
+      "id": "5",
+      "nombre": "Lo Bello y lo Triste",
+      "precio": "16.00",
+      "imagen": "/img/libro5.png"
+    },
+    {
+      "id": "6",
+      "nombre": "Soy un Gato",
+      "precio": "22.00",
+      "imagen": "/img/libro6.png"
+    },
+    {
+      "id": "c7ef",
+      "nombre": "la metamorfosis",
+      "precio": "17.00",
+      "imagen": "/img/libro4.png"
+    }
+  ]
+}
